@@ -25,7 +25,7 @@ This project was a result of a guided responsive web design course on freeCodeCa
 ## What I Learned
 
 1. There is a lot more that goes into web development than what it may seem like on the surface.
-2. HTML5 wasn't as complicated to use as I imagined. It's pretty structured and uses a pretty easy to follow pattern.
+2. HTML5 wasn't as complicated to use as I imagined. It's pretty structured and uses a pretty easy to follow structure.
 
 ---
 
